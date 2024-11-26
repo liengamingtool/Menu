@@ -1,4 +1,3 @@
-
 /***
 Encryptor by :  Liên mõm 🇻🇳
 Version      :  1.2
