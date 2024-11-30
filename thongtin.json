@@ -1,1 +1,8 @@
-
+[
+    {
+        "name": "Nguyen Van A",
+        "ip": "192.168.1.100",
+        "balance": "5000",
+        "authorization": "23444"
+    }
+]
