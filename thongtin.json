@@ -16,5 +16,14 @@
         "choduyet": "0",
         "ip": "115.76.54.175",
         "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MzI5NzgyMDgsImV4cCI6MTc2NDUxNDIwOCwibmJmIjoxNzMyOTc4MjA4LCJqdGkiOiJVQXd3WFlUWkYzQlFTRVFSIiwic3ViIjoyODg5NjA5LCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.4n93CzCMbqz41ru7rRLLnWi6kyxbAUn5K2VrjXAnpY4"
+    },
+    "minhvu102008": {
+        "ngaythang": "01-12-2024",
+        "gio": "13:17",
+        "ten": "minhvu102008",
+        "sodu": "22,508",
+        "choduyet": "3,810",
+        "ip": "21.178.181.156",
+        "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MzAyOTcxMDUsImV4cCI6MTc2MTgzMzEwNSwibmJmIjoxNzMwMjk3MTA1LCJqdGkiOiJaZGg3aWd3Y1BsYlNkTUVZIiwic3ViIjoyODk3NDA2LCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.3c7rM_5VZ-M5BMYgkYil2Ntz1fDk8Xc5hjoZXyAlyjE"
     }
 }
