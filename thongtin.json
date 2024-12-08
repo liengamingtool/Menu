@@ -7,5 +7,14 @@
         "choduyet": "0",
         "ip": "14.191.175.142",
         "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MzM2NjczODMsImV4cCI6MTc2NTIwMzM4MywibmJmIjoxNzMzNjY3MzgzLCJqdGkiOiIzUGptcG5DcE5ZbGhhWVNDIiwic3ViIjoyOTA4MjkyLCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.3NuSVoZRVNYzJw8BDw-WbhFteWAzKTCjNKD2c1m0EhM"
+    },
+    "09-12-2024": {
+        "ten": "npa2912",
+        "ngaythang": "09-12-2024",
+        "gio": "00:12",
+        "sodu": "0",
+        "choduyet": "4,939",
+        "ip": "14.191.113.73",
+        "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9nYXRld2F5LmdvbGlrZS5uZXRcL2FwaVwvbG9naW4iLCJpYXQiOjE3MzM2Njg1NDksImV4cCI6MTc2NTIwNDU0OSwibmJmIjoxNzMzNjY4NTQ5LCJqdGkiOiJ4MHNCRGdIMzREREdFSDVjIiwic3ViIjoyOTIyMzEzLCJwcnYiOiJiOTEyNzk5NzhmMTFhYTdiYzU2NzA0ODdmZmYwMWUyMjgyNTNmZTQ4In0.INHwFjn_HJUuzrGDbMP7JyPHmDCfQ4DBzlkVe-I_Pys"
     }
 }
